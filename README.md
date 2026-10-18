@@ -39,3 +39,18 @@ What I Learned
 Author
 
 BSIT Cloud Computing Learner
+
+## Deployment Proofs
+
+1. **Git Commit & Push:**
+   ![Upload Part 1](screenshots/upload%20part%201.png)
+
+2. **AWS EC2 Instance Running:**
+   ![Upload Part 2](screenshots/upload%20part%202.png)
+
+3. **Docker Compose Deployment:**
+   ![Upload Part 3](screenshots/upload%20part%203.png)
+
+4. **Live Web Application Result:**
+   ![Upload Part 4](screenshots/upload%20part%204.png)
+   
