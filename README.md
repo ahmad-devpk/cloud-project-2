@@ -35,6 +35,18 @@ What I Learned
 - AWS EC2 deployment
 - Git and GitHub version control
 
+
+Troubleshooting
+
+Issue: File Name Mismatch
+
+- Problem: Docker Compose encountered an error due to a mismatch between the actual file name "requirments.txt" and the expected file name "requirements.txt".
+- Investigation: Checked the file name and the configuration referencing it.
+- Solution: Used the Linux "mv" command to rename the file to "requirements.txt" without changing its contents.
+- Result: Docker Compose ran successfully after correcting the file name.
+
+Learning: Learned how to troubleshoot file-name mismatches and use the Linux "mv" command to rename files.
+
   
 Author
 
